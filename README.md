@@ -1,4 +1,4 @@
-# ⚔️ FaridunExilePack
+# ⚔️ Faridun Exile Pack
 
 ![Visitors: 150K+](https://img.shields.io/badge/Visitors-150K+-e74c3c) ![Members: 120K+](https://img.shields.io/badge/Members-120K+-6c5ce7) ![Updated](https://img.shields.io/badge/Updated-blue)
 
