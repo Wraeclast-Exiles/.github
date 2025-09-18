@@ -4,8 +4,7 @@
 
 ![WraeclastExiles Banner](https://i.ytimg.com/vi/4bdfC7XNS4s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKyxTm0ltsLqGFhCdTZIeyG-x0mA)
 
-**About WraeclastExiles**: WraeclastExiles is a dedicated community for *Path of Exile 2* players on Windows, offering free tools, skins, and tweaks inspired by the King of the Faridun Supporter Pack. With 150K+ players, our safe archives enhance your Wraeclast journey. Join us to customize your free game experience! (349 characters)
-
+**About WraeclastExiles**: WraeclastExiles is a dedicated community for *Path of Exile 2* players on Windows, offering free tools, skins, and tweaks inspired by the King of the Faridun Supporter Pack. With 150K+ players, our safe archives enhance your Wraeclast journey. Join us to customize your free game experience!  
 **Next Steps**: Explore our repository to access enhancements for *Path of Exile 2*.
 
 ---
